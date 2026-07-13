@@ -1,2 +1,7 @@
 My first Git file
 hello world SY
+
+Enrol for short courses in IT 
+Complete the course 
+Get certified 
+Apply for new IT job 
